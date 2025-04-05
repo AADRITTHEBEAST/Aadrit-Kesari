@@ -1,4 +1,4 @@
-# Pete Zah Games
+# Skibidi Games
 A unblocked gaming site for you that self hosts over 200+ games from reliable sources.
 
 
